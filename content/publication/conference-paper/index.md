@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'Diff-DAgger: Uncertainty Estimation with Diffusion Policy for Robotic Manipulation'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
