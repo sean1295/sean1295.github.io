@@ -64,15 +64,15 @@ education:
     institution: Virginia Tech
     date_start: 2021-08-01
     date_end: 2023-05-31
-    summary: |
-      # GPA: 3.8/4.0
+    # summary: |
+    #   GPA: 3.8/4.0
 
-      # Courses included:
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   Courses included:
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BS Mechanical Engineering
-    institution: Massachusetts Institute of Technology
+    institution: Virginia Tech
     # date_start: 2016-01-01
     # date_end: 2020-12-31
     # summary: |
@@ -83,7 +83,7 @@ education:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Research Intern
+  - position: Research Assistant
     company_name: Korea Institute of Science and Technology
     company_url: ''
     company_logo: ''
@@ -115,10 +115,10 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Piano
         description: ''
         percent: 60
-        icon: person-simple-walk
+        icon: piano
       - name: Cats
         description: ''
         percent: 100
