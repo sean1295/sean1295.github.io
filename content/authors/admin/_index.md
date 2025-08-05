@@ -118,7 +118,7 @@ skills:
       - name: Piano
         description: ''
         percent: 60
-        icon: piano
+        icon: person-simple-walk
       - name: Cats
         description: ''
         percent: 100
