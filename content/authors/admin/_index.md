@@ -3,7 +3,7 @@
 title: Sung-Wook Lee (이성욱)
 
 # Name pronunciation (optional)
-name_pronunciation: Sung-Wook Lee
+name_pronunciation:  
 
 # Full name (for SEO)
 first_name: Sung-Wook
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
