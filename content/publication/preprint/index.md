@@ -43,7 +43,7 @@ url_project: https://diffdagger.github.io/
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw5pHJWtOUyz1dy6dmpCca3ShG7nVrPV0V4g&s)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: ""
   preview_only: false
 
