@@ -43,7 +43,7 @@ url_project: https://diffdagger.github.io/
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Image credit: [**Unsplash**](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw5pHJWtOUyz1dy6dmpCca3ShG7nVrPV0V4g&s)'
   focal_point: ""
   preview_only: false
 
@@ -62,9 +62,6 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
-
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
