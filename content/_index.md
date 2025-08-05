@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: darkblue_background.jpg
+          filename: 5282051.eps
           filters:
             brightness: 1.0
           size: cover
