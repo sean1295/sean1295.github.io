@@ -47,8 +47,8 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Robot Learning
+  - Deep Learning
+  - Robot Learning from Humans
 
 education:
   - area: PhD Computer Science (WIP)
