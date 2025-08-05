@@ -32,7 +32,7 @@ links:
 - name: Custom Link
   url: https://arxiv.org/abs/2410.14868
 url_pdf: https://arxiv.org/pdf/2410.14868
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: https://github.com/sean1295/DiffDAgger/tree/main
 # url_dataset: '#'
 # url_poster: '#'
 url_project: https://diffdagger.github.io/
